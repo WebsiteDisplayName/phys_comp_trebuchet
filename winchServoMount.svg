@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32in"
+   height="20in"
+   viewBox="0 0 812.80001 508"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="winchServoMount.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5233586"
+     inkscape:cx="637.7356"
+     inkscape:cy="299.33858"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-dasharray:none"
+       id="path5996"
+       cx="87.189468"
+       cy="76.768425"
+       r="12.7" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-dasharray:none"
+       id="path6724"
+       cx="87.189468"
+       cy="76.768425"
+       r="5.5562501" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-dasharray:none"
+       id="path2364"
+       cx="154.23158"
+       cy="76.768425"
+       r="9.9060001" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.906121;stroke-dasharray:none"
+       id="path3832"
+       cx="154.23158"
+       cy="76.768425"
+       r="4.3729396" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-dasharray:none"
+       id="rect5354"
+       width="38.099998"
+       height="12.7"
+       x="199.73683"
+       y="71.937424" />
+  </g>
+</svg>
